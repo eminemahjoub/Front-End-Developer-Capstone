@@ -1,0 +1,26 @@
+[
+  {
+    "rating": 5,
+    "image": "/samir.jpg",
+    "name": "Samir",
+    "testimonial": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eaque, veritatis iusto voluptatum ad labore sunt officiis nam excepturi non dignissimos, dolorum laborum quis, deserunt eum commodi. Quas, possimus! Totam, repellat."
+  },
+  {
+    "rating": 5,
+    "image": "/alexander.jpg",
+    "name": "Alexander",
+    "testimonial": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eaque, veritatis iusto voluptatum ad labore sunt officiis nam excepturi non dignissimos, dolorum laborum quis, deserunt eum commodi. Quas, possimus! Totam, repellat."
+  },
+  {
+    "rating": 5,
+    "image": "/duman.jpg",
+    "name": "Duman",
+    "testimonial": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eaque, veritatis iusto voluptatum ad labore sunt officiis nam excepturi non dignissimos, dolorum laborum quis, deserunt eum commodi. Quas, possimus! Totam, repellat."
+  },
+  {
+    "rating": 5,
+    "image": "/yusron.jpg",
+    "name": "Yusron",
+    "testimonial": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eaque, veritatis iusto voluptatum ad labore sunt officiis nam excepturi non dignissimos, dolorum laborum quis, deserunt eum commodi. Quas, possimus! Totam, repellat."
+  }
+]
